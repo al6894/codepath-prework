@@ -1,7 +1,7 @@
 # codepath-prework
 Codepath Prework Project
 
-StudentPets
+App Name: StudentPets
 
 App Description:
 Introduces a student's first and last name, name of student's school, student's year, number of pets the student has, student's desire for more pets.
